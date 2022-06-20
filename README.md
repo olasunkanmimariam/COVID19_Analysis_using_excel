@@ -30,3 +30,5 @@ Top 5 countries with highest prevalence of confirmed Covid 19 cases are US, Indi
 While the least prevalence of Confirmed Covid 19 case is North Korea
 
 US also has the highest Covid 19 death cases
+![COVIDD 19](https://user-images.githubusercontent.com/40744059/174509340-7b9bb32d-0aed-4b30-bc7c-56229dc11709.png)
+![COVIDD3](https://user-images.githubusercontent.com/40744059/174509343-24064e2b-34a5-4b71-88eb-d133024f95c8.png)
