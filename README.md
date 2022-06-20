@@ -1,7 +1,7 @@
 # COVID19_Analysis_using_excel
 
 ## Project Objective
-Analyzed the global cases of COVID 19 to gain insights
+Analyze the global cases of COVID 19, confirmed cases, death cases and recovered cases to gain insights
 
 ## Data Sourcing
 I source the data using web scraping in excel. Global confirmed cases, global death cases and global recovered cases were scraped from 
