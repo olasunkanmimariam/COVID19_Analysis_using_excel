@@ -1,8 +1,8 @@
 # Airlines Delay Storytelling
-The project is based on airline delays in the US and it is a capstone project for the #30DaysOfLearning program
-
 Among the many problems faced by airlines and carriers in the United States, flight delays are a serious, widespread problem. 
 A delay may be caused by airline operations, air traffic congestion, weather, or air traffic management actions
+
+The project is based on airline delays in the US and it is a capstone project for the #30DaysOfLearning program
 
 The project focuses on analyzing the data and building a stunning storytelling dashboard using PowerBi
 
