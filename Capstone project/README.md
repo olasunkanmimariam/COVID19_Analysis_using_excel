@@ -9,6 +9,28 @@ The project focuses on analyzing the data and building a stunning storytelling d
 ## Data Source
 Link to the dataset used https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay
 
+
+With the original dataset, the aim was to predict whether a flight would be delayed. However, my task is to 
+analyze this data and tell a story about the entire flight experience.
+
+The Airlines dataset has 539,383 rows and 9 different features column
+
+The different Feature names and description are:
+
+##### Id: Serial No
+
+##### Airline: Different types of commercial airlines
+
+##### Flight: Types of Aircraft
+
+##### Airport From and Airport To: code attributed by IATA to identify the source and destination airport
+
+##### DayOfWeek: Week day of the flight
+
+##### Distance: distance
+
+##### Time: Time Taken to reach the destination
+
 ## Data Transformation
 Data was transformed and prepared using PowerQuery editor.
 
