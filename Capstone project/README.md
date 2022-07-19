@@ -62,7 +62,12 @@ and distance, as well as 45% of the flight being delayed and 55% not being delay
 
 ![weekday summary](https://user-images.githubusercontent.com/40744059/179227212-98181483-e2b8-44d2-83fa-82fc77236cee.png)
 
-Among the days with the most delayed flights, Tuesday has the highest number
+Among the days with the most delayed flights, Tuesday and Wednesday has the highest number
+
+![flight_summary](https://user-images.githubusercontent.com/40744059/179855028-aabb84c9-fba4-4927-9764-9dec54469684.png)
+
+In terms of delays, LAX-SFO flights are the most frequently delayed
+
 
 More insight can be derived by interacting with the dashboard using the 'Location from' and 'Airlines' slicers.
 
@@ -72,7 +77,9 @@ More insight can be derived by interacting with the dashboard using the 'Locatio
 Consequently, passengers lose time, miss opportunities for business or leisure, resort to higher lodging costs, and are stressed. 
 Airlines are forced to consume more fuel to make up for the delay, which negatively impacts the environment. In addition, passengers have a low level of trust in airlines.
 
-In conclusion, airline companies should take adequate measures to plan flights accordingly and reduce the impact of flight delays.
+It is important that airline companies, particularly (WN)Southwest Airlines, take extensive measures to minimize the impact of flight delays by planning their flights accordingly.
+
+It is recommended that passengers avoid boarding flights on Tuesdays and Wednesdays if possible in order to avoid delayed flights
 
 ![DOCUmentation3](https://user-images.githubusercontent.com/40744059/179188213-2edd66dd-a779-48c5-bb1b-ece85a877059.png)
 ![DOCUmentation](https://user-images.githubusercontent.com/40744059/179188194-2c59c3a5-e343-457d-8d88-8b9670ab56a4.png)
