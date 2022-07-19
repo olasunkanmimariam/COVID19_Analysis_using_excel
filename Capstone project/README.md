@@ -15,6 +15,9 @@ analyze this data and tell a story about the entire flight experience.
 
 The Airlines dataset has 539,383 rows and 9 different features column
 
+![data_screenshot](https://user-images.githubusercontent.com/40744059/179770148-e506b0fa-6c91-4403-ad31-40fbda4de682.png)
+
+
 The different Feature names and description are:
 
 ##### Id: Serial No
@@ -31,6 +34,8 @@ The different Feature names and description are:
 
 ##### Time: Time Taken to reach the destination
 
+##### Delay: Whether flight was delayed or not
+
 ## Data Transformation
 Data was transformed and prepared using PowerQuery editor.
 
@@ -38,6 +43,8 @@ Ensuring the right data types
 
 Creating new measures (total flight distance, total flight duration, average flight distance, count of delayed and non-delayed flights) 
 The percentage of delayed and non-delayed flights, etc.
+
+Re-encoding of the delayed column to 1: Delayed, 0: Not Delayed
 
 Extraction of flight location for the 'airport from' and 'airport to'
 
